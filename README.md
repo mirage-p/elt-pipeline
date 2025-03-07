@@ -36,7 +36,7 @@ Feel free to run queries such as:
 ## Access Source Database
 
 1. docker exec -it elt-source_postgres-1 psql -U postgres
-2. \c destination_db
+2. \c source_db
 3. \dt
 
 ## Services
